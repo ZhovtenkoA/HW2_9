@@ -8,6 +8,9 @@ packages = [{include = "hw2_9"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+scrapy = "^2.10.1"
+pymongo = "^4.5.0"
+mongoengine = "^0.27.0"
 
 
 [build-system]
